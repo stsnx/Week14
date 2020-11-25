@@ -45,5 +45,5 @@ int main(){
 		table[b].push_back(temp);
 	}
 	dij(table,from,target);
-
+	return 0;
 }
